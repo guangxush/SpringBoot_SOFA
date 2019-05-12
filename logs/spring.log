@@ -1,0 +1,15 @@
+2019-05-12 23:14:34.218  INFO 714 --- [main] com.shgx.sofa.SofaApplication            : Starting SofaApplication on guangxushanMacBook-Pro.local with PID 714 (/Users/guangxush/IDEA/SpringBoot_SOFA/target/classes started by guangxush in /Users/guangxush/IDEA/SpringBoot_SOFA)
+2019-05-12 23:14:34.220  INFO 714 --- [main] com.shgx.sofa.SofaApplication            : No active profile set, falling back to default profiles: default
+2019-05-12 23:14:34.799  INFO 714 --- [main] com.shgx.sofa.SofaApplication            : Started SofaApplication in 0.956 seconds (JVM running for 1.971)
+2019-05-12 23:16:29.277  INFO 773 --- [main] com.shgx.sofa.SofaApplication            : Starting SofaApplication on guangxushanMacBook-Pro.local with PID 773 (/Users/guangxush/IDEA/SpringBoot_SOFA/target/classes started by guangxush in /Users/guangxush/IDEA/SpringBoot_SOFA)
+2019-05-12 23:16:29.280  INFO 773 --- [main] com.shgx.sofa.SofaApplication            : No active profile set, falling back to default profiles: default
+2019-05-12 23:16:29.888  INFO 773 --- [main] com.shgx.sofa.SofaApplication            : Started SofaApplication in 0.823 seconds (JVM running for 1.447)
+2019-05-12 23:16:41.374  INFO 778 --- [main] com.shgx.sofa.SofaApplication            : Starting SofaApplication on guangxushanMacBook-Pro.local with PID 778 (/Users/guangxush/IDEA/SpringBoot_SOFA/target/classes started by guangxush in /Users/guangxush/IDEA/SpringBoot_SOFA)
+2019-05-12 23:16:41.376  INFO 778 --- [main] com.shgx.sofa.SofaApplication            : No active profile set, falling back to default profiles: default
+2019-05-12 23:16:41.741  INFO 778 --- [main] com.shgx.sofa.SofaApplication            : Started SofaApplication in 0.578 seconds (JVM running for 1.163)
+2019-05-12 23:20:02.565  INFO 793 --- [main] com.shgx.sofa.SofaApplication            : Starting SofaApplication on guangxushanMacBook-Pro.local with PID 793 (/Users/guangxush/IDEA/SpringBoot_SOFA/target/classes started by guangxush in /Users/guangxush/IDEA/SpringBoot_SOFA)
+2019-05-12 23:20:02.567  INFO 793 --- [main] com.shgx.sofa.SofaApplication            : No active profile set, falling back to default profiles: default
+2019-05-12 23:20:02.898  INFO 793 --- [main] com.shgx.sofa.SofaApplication            : Started SofaApplication in 0.535 seconds (JVM running for 1.055)
+2019-05-12 23:24:09.862  INFO 813 --- [main] com.shgx.sofa.SofaApplication            : Starting SofaApplication on guangxushanMacBook-Pro.local with PID 813 (/Users/guangxush/IDEA/SpringBoot_SOFA/target/classes started by guangxush in /Users/guangxush/IDEA/SpringBoot_SOFA)
+2019-05-12 23:24:09.863  INFO 813 --- [main] com.shgx.sofa.SofaApplication            : No active profile set, falling back to default profiles: default
+2019-05-12 23:24:10.208  INFO 813 --- [main] com.shgx.sofa.SofaApplication            : Started SofaApplication in 0.539 seconds (JVM running for 1.141)

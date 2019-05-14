@@ -1,0 +1,1 @@
+2019-05-14 23:20:38,756 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistryHelper - Load backup file failure cause by can't found file: /Users/guangxush/localFileRegistry/localRegistry.reg
